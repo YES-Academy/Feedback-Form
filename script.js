@@ -5,7 +5,7 @@
 // ---- CONFIG: Google Apps Script Web App URL ----
 // Replace with YOUR deployed Web App /exec URL.
 // Deploy > New deployment > Web app > Execute as: Me > Who has access: Anyone
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwPxoCd7J0JsKmo03BsY2LYBaUmpyHuis7nNSApaVaRbaOL5jZ456DuK-dg4qqqDJtTkg/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyllrgGMW0V_dy89h2kvg-kzITJhcQxbNGZqh7qtzndXPoRHbmhf9MdgjuufXMyV0Zv_w/exec";
 
 // ---- Numeric rating scale used by every question (1-5) ----
 const RATING_SCALE = [
